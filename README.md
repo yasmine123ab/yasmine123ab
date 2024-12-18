@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **yasmine.aboudi@esprit.tn**
+- 📫 How to reach me **yasmine.aboudi@gmail.tn**
 
 
 <h3 align="left">🌐Connect with me:</h3>
