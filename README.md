@@ -14,6 +14,27 @@
 
 - 📫 How to reach me **yasmine.aboudi@gmail.tn**
 
+<h3 align="left">🔧Languages and Tools:</h3>
+<span>
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+  </a>  
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+  </a>  
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+  </a>   
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="python" style="max-width: 100%;">
+  </a> 
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg" alt="php" style="max-width: 100%;">
+  </a> 
+</span>
+
+<br/>
+
 <table>
   <tr>
     <td><p><img src="https://github-readme-stats.vercel.app/api?username=yasmine123ab&show_icons=true&theme=radical&locale=en" alt="yasmine" /></p></td>
